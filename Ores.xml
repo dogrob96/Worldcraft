@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ores>
+    <Ore>
+      <ID>1</ID>
+      <Name>Acanthite</Name>
+      <Makeup>
+        <Element Amount="1" Name="Silver"/>
+        <Element Amount="1" Name="Sulfur"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>2</ID>
+      <Name>Barite</Name>
+      <Makeup>
+        <Element Amount="1" Name="Barium"/>
+        <Element Amount="1" Name="Sulfur"/>
+        <Element Amount="4" Name="Oxygen"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>3</ID>
+      <Name>Bauxite</Name>
+      <Makeup>
+        <Element Amount="2" Name="Aluminum"/>
+        <Element Amount="3" Name="Oxygen"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>4</ID>
+      <Name>Beryl</Name>
+      <Makeup>
+        <Element Amount="3" Name="Beryllium"/>
+        <Element Amount="2" Name="Aluminum"/>
+        <Element Amount="6" Name="Silicon"/>
+        <Element Amount="18" Name="Oxygen"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>5</ID>
+      <Name>Bornite</Name>
+      <Makeup>
+        <Element Amount="5" Name="Copper"/>
+        <Element Amount="1" Name="Iron"/>
+        <Element Amount="4" Name="Sulfur"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>6</ID>
+      <Name>Cassiterite</Name>
+      <Makeup>
+        <Element Amount="1" Name="Tin"/>
+        <Element Amount="2" Name="Oxygen"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>7</ID>
+      <Name>Chalcocite</Name>
+      <Makeup>
+        <Element Amount="2" Name="Copper"/>
+        <Element Amount="1" Name="Sulfur"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>8</ID>
+      <Name>Chalcopyrite</Name>
+      <Makeup>
+        <Element Amount="1" Name="Copper"/>
+        <Element Amount="1" Name="Iron"/>
+        <Element Amount="2" Name="Sulfur"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>9</ID>
+      <Name>Chromite</Name>
+      <Makeup>
+        <Element Amount="1" Name="Iron"/>
+        <Element Amount="2" Name="Chromium"/>
+        <Element Amount="4" Name="Oxygen"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>10</ID>
+      <Name>Cinnabar</Name>
+      <Makeup>
+        <Element Amount="1" Name="Mercury"/>
+        <Element Amount="1" Name="Sulfur"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>11</ID>
+      <Name>Cobaltite</Name>
+      <Makeup>
+        <Element Amount="1" Name="Cobalt"/>
+        <Element Amount="1" Name="Arsenic"/>
+        <Element Amount="1" Name="Sulfur"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>12</ID>
+      <Name>Columbite</Name>
+      <Makeup>
+        <Element Amount="1" Name="Iron"/>
+        <Element Amount="2" Name="Niobium"/>
+        <Element Amount="6" Name="Oxygen"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>13</ID>
+      <Name>Dolomite</Name>
+      <Makeup>
+        <Element Amount="1" Name="Calcium"/>
+        <Element Amount="1" Name="Magnesium"/>
+        <Element Amount="2" Name="Carbon"/>
+        <Element Amount="6" Name="Oxygen"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>14</ID>
+      <Name>Galena</Name>
+      <Makeup>
+        <Element Amount="1" Name="Lead"/>
+        <Element Amount="1" Name="Sulfur"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>15</ID>
+      <Name>Gold</Name>
+      <Makeup>
+        <Element Amount="1" Name="Gold"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>16</ID>
+      <Name>Hematite</Name>
+      <Makeup>
+        <Element Amount="2" Name="Iron"/>
+        <Element Amount="3" Name="Oxygen"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>17</ID>
+      <Name>Ilmenite</Name>
+      <Makeup>
+        <Element Amount="1" Name="Iron"/>
+        <Element Amount="1" Name="Titanium"/>
+        <Element Amount="3" Name="Oxygen"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>18</ID>
+      <Name>Magnetite</Name>
+      <Makeup>
+        <Element Amount="3" Name="Iron"/>
+        <Element Amount="4" Name="Oxygen"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>19</ID>
+      <Name>Malachite</Name>
+      <Makeup>
+        <Element Amount="2" Name="Copper"/>
+        <Element Amount="1" Name="Carbon"/>
+        <Element Amount="5" Name="Oxygen"/>
+        <Element Amount="2" Name="Hydrogen"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>20</ID>
+      <Name>Molybdenite</Name>
+      <Makeup>
+        <Element Amount="1" Name="Molybdenum"/>
+        <Element Amount="2" Name="Sulfur"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>21</ID>
+      <Name>Pentlandite</Name>
+      <Makeup>
+        <Element Amount="9" Name="Iron"/>
+        <Element Amount="9" Name="Nickel"/>
+        <Element Amount="8" Name="Sulfur"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>22</ID>
+      <Name>Pyrolusite</Name>
+      <Makeup>
+        <Element Amount="1" Name="Manganese"/>
+        <Element Amount="2" Name="Oxygen"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>23</ID>
+      <Name>Scheelite</Name>
+      <Makeup>
+        <Element Amount="1" Name="Calcium"/>
+        <Element Amount="1" Name="Tungsten"/>
+        <Element Amount="4" Name="Oxygen"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>24</ID>
+      <Name>Sperrylite</Name>
+      <Makeup>
+        <Element Amount="1" Name="Platinum"/>
+        <Element Amount="2" Name="Arsenic"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>25</ID>
+      <Name>Sphalerite</Name>
+      <Makeup>
+        <Element Amount="1" Name="Zinc"/>
+        <Element Amount="1" Name="Sulfur"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>26</ID>
+      <Name>Uraninite</Name>
+      <Makeup>
+        <Element Amount="1" Name="Uranium"/>
+        <Element Amount="2" Name="Oxygen"/>
+      </Makeup>
+    </Ore>
+    <Ore>
+      <ID>27</ID>
+      <Name>Wolframite</Name>
+      <Makeup>
+        <Element Amount="1" Name="Iron"/>
+        <Element Amount="1" Name="Tungstan"/>
+        <Element AMount="4" Name="Oxygen"/>
+      </Makeup>
+    </Ore>
+  </Ores>
+</Definitions>

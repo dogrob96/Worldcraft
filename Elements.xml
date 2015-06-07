@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Elements>
+    <Element>
+      <AtomicNumber>1</AtomicNumber>
+      <Name>Hydrogen</Name>
+      <Symbol>H</Symbol>
+      <Group>1</Group>
+      <Period>1</Period>
+      <Block>s</Block>
+      <MeltingPoint>13.99</MeltingPoint>
+      <BoilingPoint>20.271</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="1" NaturalAbundance="99.98885"/>
+        <Isotope Mass="2" NaturalAdubdance="0.0155"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNuber>2</AtomicNuber>
+      <Name>Helium</Name>
+      <Symbol>He</Symbol>
+      <Group>18</Group>
+      <Period>1</Period>
+      <Block>s</Block>
+      <MeltingPoint>0.95</MeltingPoint>
+      <BoilingPoint>4.222</BoilingPoint>
+      <Isotope>
+        <Isotope Mass="3" NaturalAbundance="0.000137"/>
+        <Isotope Mass="4" NaturalAbundance="99.999863"/>
+      </Isotope>
+    </Element>
+    <Element>
+      <AtomicNumber>3</AtomicNumber>
+      <Name>Lithium</Name>
+      <Symbol>Li</Symbol>
+      <Group>1</Group>
+      <Period>2</Period>
+      <Block>s</Block>
+      <MeltingPoint>453.65</MeltingPoint>
+      <BoilingPoint>1603</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="6" NaturalAbundance="7.5"/>
+        <Isotope Mass="7" NaturalAbundance="92.5"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>4</AtomicNumber>
+      <Name>Beryllium</Name>
+      <Symbol>Be</Symbol>
+      <Group>2</Group>
+      <Period>2</Period>
+      <Block>s</Block>
+      <MeltingPoint>1560</MeltingPoint>
+      <BoilingPoint>3243</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="9" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>5</AtomicNumber>
+      <Name>Boron</Name>
+      <Symbol>B</Symbol>
+      <Group>13</Group>
+      <Period>2</Period>
+      <Block>p</Block>
+      <MeltingPoint>2349</MeltingPoint>
+      <BoilingPoint>4200</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="10" NaturalAbundance="19.9"/>
+        <Isotope Mass="11" NaturalAbundance="80.1"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>6</AtomicNumber>
+      <Name>Carbon</Name>
+      <Symbol>C</Symbol>
+      <Group>14</Group>
+      <Period>2</Period>
+      <Block>p</Block>
+      <MeltingPoint>N/A</MeltingPoint>
+      <BoilingPoint>N/A</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="12" NaturalAbundance="98.9"/>
+        <Isotope Mass="13" NaturalAbundance="1.1"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>7</AtomicNumber>
+      <Name>Nitrogen</Name>
+      <Symbol>N</Symbol>
+      <Group>15</Group>
+      <Period>2</Period>
+      <Block>p</Block>
+      <MeltingPoint>63.15</MeltingPoint>
+      <BoilingPoint>77.355</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="14" NaturalAbundance="99.634"/>
+        <Isotope Mass="15" NaturalAbundance="0.366"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>8</AtomicNumber>
+      <Name>Oxygen</Name>
+      <Symbol>O</Symbol>
+      <Group>16</Group>
+      <Period>2</Period>
+      <Block>p</Block>
+      <MeltingPoint>54.36</MeltingPoint>
+      <BoilingPoint>90.188</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="16" NaturalAbundance="99.76"/>
+        <Isotope Mass="17" NaturalAbundance="0.039"/>
+        <Isotope Mass="18" NaturalAbundance="0.201"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>9</AtomicNumber>
+      <Name>Fluorine</Name>
+      <Symbol>F</Symbol>
+      <Group>17</Group>
+      <Period>2</Period>
+      <Block>p</Block>
+      <MeltingPoint>53.48</MeltingPoint>
+      <BoilingPoint>85.03</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="19" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>10</AtomicNumber>
+      <Name>Neon</Name>
+      <Symbol>Ne</Symbol>
+      <Group>18</Group>
+      <Period>2</Period>
+      <Block>p</Block>
+      <MeltingPoint>24.56</MeltingPoint>
+      <BoilingPoint>27.104</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="20" NaturalAbundance="90.48"/>
+        <Isotope Mass="21" NaturalAbundance="0.27"/>
+        <Isotope Mass="22" NaturalAbundance="9.25"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>11</AtomicNumber>
+      <Name>Sodium</Name>
+      <Symbol>Na</Symbol>
+      <Group>1</Group>
+      <Period>3</Period>
+      <Block>s</Block>
+      <MeltingPoint>370.944</MeltingPoint>
+      <BoilingPoint>1156.090</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="23" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>12</AtomicNumber>
+      <Name>Magnesium</Name>
+      <Symbol>Mg</Symbol>
+      <Group>2</Group>
+      <Period>3</Period>
+      <Block>s</Block>
+      <MeltingPoint>923</MeltingPoint>
+      <BoilingPoint>1363</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="24" NaturalAbundance="78.99"/>
+        <Isotope Mass="25" NaturalAbundance="10.00"/>
+        <Isotope Mass="26" NaturalAbundance="11.01"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>13</AtomicNumber>
+      <Name>Aluminium</Name>
+      <Symbol>Al</Symbol>
+      <Group>13</Group>
+      <Period>3</Period>
+      <Block>p</Block>
+      <MeltingPoint>933.47</MeltingPoint>
+      <BoilingPoint>2743</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="27" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>14</AtomicNumber>
+      <Name>Silicon</Name>
+      <Symbol>Si</Symbol>
+      <Group>14</Group>
+      <Period>3</Period>
+      <Block>p</Block>
+      <MeltingPoint>1687</MeltingPoint>
+      <BoilingPoint>3538</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="28" NaturalAbundance="92.23"/>
+        <Isotope Mass="29" NaturalAbundance="4.67"/>
+        <Isotope Mass="30" NaturalAbundance="3.1"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>15</AtomicNumber>
+      <Name>Phosphorus</Name>
+      <Symbol>P</Symbol>
+      <Group>15</Group>
+      <Period>3</Period>
+      <Block>p</Block>
+      <MeltingPoint>N/A</MeltingPoint>
+      <BoilingPoint>N/A</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="31" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>16</AtomicNumber>
+      <Name>Sulfur</Name>
+      <Symbol>S</Symbol>
+      <Group>16</Group>
+      <Period>3</Period>
+      <Block>p</Block>
+      <MeltingPoint>388.36</MeltingPoint>
+      <BoilingPoint>717.8</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="32" NaturalAbundance="95.02"/>
+        <Isotope Mass="33" NaturalAbundance="0.75"/>
+        <Isotope Mass="34" NaturalAbundance="4.21"/>
+        <Isotope Mass="36" NaturalAbundance="0.02"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>17</AtomicNumber>
+      <Name>Chlorine</Name>
+      <Symbol>Cl</Symbol>
+      <Group>17</Group>
+      <Period>3</Period>
+      <Block>p</Block>
+      <MeltingPoint>171.6</MeltingPoint>
+      <BoilingPoint>239.11</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="35" NaturalAbundance="75.77"/>
+        <Isotope Mass="37" NaturalAbundance="24.23"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>18</AtomicNumber>
+      <Name>Argon</Name>
+      <Symbol>Ar</Symbol>
+      <Group>18</Group>
+      <Period>3</Period>
+      <Block>p</Block>
+      <MeltingPoint>83.81</MeltingPoint>
+      <BoilingPoint>87.302</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="36" NaturalAbundance="0.337"/>
+        <Isotope Mass="38" NaturalAbundance="0.063"/>
+        <Isotope Mass="40" NaturalAbundance="99.600"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>19</AtomicNumber>
+      <Name>Potassium</Name>
+      <Symbol>K</Symbol>
+      <Group>1</Group>
+      <Period>4</Period>
+      <Block>s</Block>
+      <MeltingPoint>336.7</MeltingPoint>
+      <BoilingPoint>1032</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="39" NaturalAbundance="93.26"/>
+        <Isotope Mass="40" NaturalAbundance="0.012"/>
+        <Isotope Mass="41" NaturalAbundance="6.72"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>20</AtomicNumber>
+      <Name>Calcium</Name>
+      <Symbol>Ca</Symbol>
+      <Group>2</Group>
+      <Period>4</Period>
+      <Block>s</Block>
+      <MeltingPoint>1115</MeltingPoint>
+      <BoilingPoint>1757</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="40" NaturalAbundance="96.941"/>
+        <Isotope Mass="42" NaturalAbundance="0.647"/>
+        <Isotope Mass="43" NaturalAbundance="0.135"/>
+        <Isotope Mass="44" NaturalAbundance="2.086"/>
+        <Isotope Mass="46" NaturalAbundance="0.004"/>
+        <Isotope Mass="48" NaturalAbundance="0.187"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>21</AtomicNumber>
+      <Name>Scandium</Name>
+      <Symbol>Sc</Symbol>
+      <Group>3</Group>
+      <Period>4</Period>
+      <Block>d</Block>
+      <MeltingPoint>1814</MeltingPoint>
+      <BoilingPoint>3109</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="45" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>22</AtomicNumber>
+      <Name>Titanium</Name>
+      <Symbol>Ti</Symbol>
+      <Group>4</Group>
+      <Period>4</Period>
+      <Block>d</Block>
+      <MeltingPoint>1941</MeltingPoint>
+      <BoilingPoint>3560</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="46" NaturalAbundance="8"/>
+        <Isotope Mass="47" NaturalAbundance="7.3"/>
+        <Isotope Mass="48" NaturalAbundance="73.8"/>
+        <Isotope Mass="49" NaturalAbundance="5.5"/>
+        <Isotope Mass="50" NaturalAbundance="5.4"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>23</AtomicNumber>
+      <Name>Vanadium</Name>
+      <Symbol>V</Symbol>
+      <Group>5</Group>
+      <Period>4</Period>
+      <Block>d</Block>
+      <MeltingPoint>2183</MeltingPoint>
+      <BoilingPoint>3680</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="50" NaturalAbundance="0.25"/>
+        <Isotope Mass="51" NaturalAbundance="99.75"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>24</AtomicNumber>
+      <Name>Chromium</Name>
+      <Symbol>Cr</Symbol>
+      <Group>6</Group>
+      <Period>4</Period>
+      <Block>d</Block>
+      <MeltingPoint>2180</MeltingPoint>
+      <BoilingPoint>2944</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="50" NaturalAbundance="4.345"/>
+        <Isotope Mass="52" NaturalAbundance="83.789"/>
+        <Isotope Mass="53" NaturalAbundance="9.501"/>
+        <Isotope Mass="54" NaturalAbundance="2.365"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>25</AtomicNumber>
+      <Name>Manganese</Name>
+      <Symbol>Mn</Symbol>
+      <Group>7</Group>
+      <Period>4</Period>
+      <Block>d</Block>
+      <MeltingPoint>1519</MeltingPoint>
+      <BoilingPoint>2334</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="55" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>26</AtomicNumber>
+      <Name>Iron</Name>
+      <Symbol>Fe</Symbol>
+      <Group>8</Group>
+      <Period>4</Period>
+      <Block>d</Block>
+      <MeltingPoint>1811</MeltingPoint>
+      <BoilingPoint>3134</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="54" NaturalAbundance="5.8"/>
+        <Isotope Mass="56" NaturalAbundance="91.71"/>
+        <Isotope Mass="57" NaturalAbundance="2.2"/>
+        <Isotope Mass="58" NaturalAbundance="0.28"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>27</AtomicNumber>
+      <Name>Cobalt</Name>
+      <Symbol>Co</Symbol>
+      <Group>9</Group>
+      <Period>4</Period>
+      <Block>d</Block>
+      <MeltingPoint>1768</MeltingPoint>
+      <BoilingPoint>3200</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="59" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>28</AtomicNumber>
+      <Name>Nickel</Name>
+      <Symbol>Ni</Symbol>
+      <Group>10</Group>
+      <Period>4</Period>
+      <Block>d</Block>
+      <MeltingPoint>1728</MeltingPoint>
+      <BoilingPoint>3003</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="58" NaturalAbundance="68.077"/>
+        <Isotope Mass="60" NaturalAbundance="26.223"/>
+        <Isotope Mass="61" NaturalAbundance="1.14"/>
+        <Isotope Mass="62" NaturalAbundance="3.634"/>
+        <Isotope Mass="64" NaturalAbundance="0.926"/>
+      </Isotopes>
+    </Element>
+  </Elements>
+</Definitions>
