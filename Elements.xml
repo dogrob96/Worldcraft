@@ -407,5 +407,130 @@
         <Isotope Mass="64" NaturalAbundance="0.926"/>
       </Isotopes>
     </Element>
+    <Element>
+      <AtomicNumber>29</AtomicNumber>
+      <Name>Copper</Name>
+      <Symbol>Cu</Symbol>
+      <Group>11</Group>
+      <Period>4</Period>
+      <Block>d</Block>
+      <MeltingPoint>1357.77</MeltingPoint>
+      <BoilingPoint>2835</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="63" NaturalAbundance="69.15"/>
+        <Isotope Mass="65" NaturalAbundance="30.85"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>30</AtomicNumber>
+      <Name>Zinc</Name>
+      <Symbol>Zn</Symbol>
+      <Group>12</Group>
+      <Period>4</Period>
+      <Block>d</Block>
+      <MeltingPoint>692.68</MeltingPoint>
+      <BoilingPoint>1180</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="64" NaturalAbundance="48.6"/>
+        <Isotope Mass="66" NaturalAbundance="27.9"/>
+        <Isotope Mass="67" NaturalAbundance="4.1"/>
+        <Isotope Mass="68" NaturalAbundance="18.8"/>
+        <Isotope Mass="70" NaturalAbundance="0.6"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>31</AtomicNumber>
+      <Name>Gallium</Name>
+      <Symbol>Ga</Symbol>
+      <Group>13</Group>
+      <Period>4</Period>
+      <Block>p</Block>
+      <MeltingPoint>302.9146</MeltingPoint>
+      <BoilingPoint>2673</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="69" NaturalAbundance="60.11"/>
+        <Isotope Mass="71" NaturalAbundance="39.89"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>32</AtomicNumber>
+      <Name>Germanium</Name>
+      <Symbol>Ge</Symbol>
+      <Group>14</Group>
+      <Period>4</Period>
+      <Block>p</Block>
+      <MeltingPoint>1211.48</MeltingPoint>
+      <BoilingPoint>3106</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="70" NaturalAbundance="21.23"/>
+        <Isotope Mass="72" NaturalAbundance="27.66"/>
+        <Isotope Mass="73" NaturalAbundance="7.73"/>
+        <Isotope Mass="74" NaturalAbundance="35.94"/>
+        <Isotope Mass="76" NaturalAbundance="7.44"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>33</AtomicNumber>
+      <Name>Arsenic</Name>
+      <Symbol>As</Symbol>
+      <Group>15</Group>
+      <Period>4</Period>
+      <Block>p</Block>
+      <MeltingPoint>N/A</MeltingPoint>
+      <BoilingPoint>N/A</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="75" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>34</AtomicNumber>
+      <Name>Selenium</Name>
+      <Symbol>Se</Symbol>
+      <Group>16</Group>
+      <Period>4</Period>
+      <Block>p</Block>
+      <MeltingPoint>494</MeltingPoint>
+      <BoilingPoint>958</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="74" NaturalAbundance="0.87"/>
+        <Isotope Mass="76" NaturalAbundance="9.36"/>
+        <Isotope Mass="77" NaturalAbundance="7.63"/>
+        <Isotope Mass="78" NaturalAbundance="23.78"/>
+        <Isotope Mass="80" NaturalAbundance="49.61"/>
+        <Isotope Mass="82" NaturalAbundance="8.73"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>35</AtomicNumber>
+      <Name>Bromine</Name>
+      <Symbol>Br</Symbol>
+      <Group>17</Group>
+      <Period>4</Period>
+      <Block>p</Block>
+      <MeltingPoint>265.8</MeltingPoint>
+      <BoilingPoint>332.0</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="79" NaturalAbundance="50.69"/>
+        <Isotope Mass="81" NaturalAbundance="49.31"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>36</AtomicNumber>
+      <Name>Krypton</Name>
+      <Symbol>Kr</Symbol>
+      <Group>18</Group>
+      <Period>4</Period>
+      <Block>p</Block>
+      <MeltingPoint>115.78</MeltingPoint>
+      <BoilingPoint>119.93</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="78" NaturalAbundance="0.35"/>
+        <Isotope Mass="80" NaturalAbundance="2.25"/>
+        <Isotope Mass="82" NaturalAbundance="11.6"/>
+        <Isotope Mass="83" NaturalAbundance="11.5"/>
+        <Isotope Mass="84" NaturalAbundance="57.0"/>
+        <Isotope Mass="86" NaturalAbundance="17.3"/>
+      </Isotopes>
+    </Element>
   </Elements>
 </Definitions>
