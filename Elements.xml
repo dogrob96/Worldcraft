@@ -532,5 +532,615 @@
         <Isotope Mass="86" NaturalAbundance="17.3"/>
       </Isotopes>
     </Element>
+    <Element>
+      <AtomicNumber>37</AtomicNumber>
+      <Name>Rubidium</Name>
+      <Symbol>Rb</Symbol>
+      <Group>1</Group>
+      <Period>5</Period>
+      <Block>s</Block>
+      <MeltingPoint>312.45</MeltingPoint>
+      <BoilingPoint>961</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="85" NaturalAbundance="72.17"/>
+        <Isotope Mass="87" NaturalAbundance="27.83"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>38</AtomicNumber>
+      <Name>Strontium</Name>
+      <Symbol>Sr</Symbol>
+      <Group>2</Group>
+      <Period>5</Period>
+      <Block>s</Block>
+      <MeltingPoint>1050</MeltingPoint>
+      <BoilingPoint>1650</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="84" NaturalAbundance="0.56"/>
+        <Isotope Mass="86" NaturalAbundance="9.86"/>
+        <Isotope Mass="87" NaturalAbundance="7.0"/>
+        <Isotope Mass="88" NaturalAbundance="82.58"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>39</AtomicNumber>
+      <Name>Yttrium</Name>
+      <Symbol>Y</Symbol>
+      <Group>3</Group>
+      <Period>5</Period>
+      <Block>d</Block>
+      <MeltingPoint>1799</MeltingPoint>
+      <BoilingPoint>3203</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="89" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>40</AtomicNumber>
+      <Name>Zirconium</Name>
+      <Symbol>Zr</Symbol>
+      <Group>4</Group>
+      <Period>5</Period>
+      <Block>d</Block>
+      <MeltingPoint>2128</MeltingPoint>
+      <BoilingPoint>4650</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="90" NaturalAbundance="51.45"/>
+        <Isotope Mass="91" NaturalAbundance="11.22"/>
+        <Isotope Mass="92" NaturalAbundance="17.15"/>
+        <Isotope Mass="94" NaturalAbundance="17.38"/>
+        <Isotope Mass="96" NaturalAbundance="2.8"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>41</AtomicNumber>
+      <Name>Niobium</Name>
+      <Symbol>Nb</Symbol>
+      <Group>5</Group>
+      <Period>5</Period>
+      <Block>d</Block>
+      <MeltingPoint>2750</MeltingPoint>
+      <BoilingPoint>5017</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="93" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>42</AtomicNumber>
+      <Name>Molybdenum</Name>
+      <Symbol>Mo</Symbol>
+      <Group>6</Group>
+      <Period>5</Period>
+      <Block>d</Block>
+      <MeltingPoint>2896</MeltingPoint>
+      <BoilingPoint>4912</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="92" NaturalAbundance="14.84"/>
+        <Isotope Mass="94" NaturalAbundance="9.25"/>
+        <Isotope Mass="95" NaturalAbundance="15.92"/>
+        <Isotope Mass="96" NaturalAbundance="16.68"/>
+        <Isotope Mass="97" NaturalAbundance="9.55"/>
+        <Isotope Mass="98" NaturalAbundance="24.13"/>
+        <Isotope Mass="100" NaturalAbundance="9.63"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>43</AtomicNumber>
+      <Name>Technetium</Name>
+      <Symbol>Tc</Symbol>
+      <Group>7</Group>
+      <Period>5</Period>
+      <Block>d</Block>
+      <MeltingPoint>2430</MeltingPoint>
+      <BoilingPoint>4538</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="98" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>44</AtomicNumber>
+      <Name>Ruthenium</Name>
+      <Symbol>Ru</Symbol>
+      <Group>8</Group>
+      <Period>5</Period>
+      <Block>d</Block>
+      <MeltingPoint>2607</MeltingPoint>
+      <BoilingPoint>4423</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="96" NaturalAbundance="5.52"/>
+        <Isotope Mass="98" NaturalAbundance="1.88"/>
+        <Isotope Mass="99" NaturalAbundance="12.7"/>
+        <Isotope Mass="100" NaturalAbundance="12.6"/>
+        <Isotope Mass="101" NaturalAbundance="17.0"/>
+        <Isotope Mass="102" NaturalAbundance="31.6"/>
+        <Isotope Mass="104" NaturalAbundance="18.7"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>45</AtomicNumber>
+      <Name>Rhodium</Name>
+      <Symbol>Rh</Symbol>
+      <Group>9</Group>
+      <Period>5</Period>
+      <Block>d</Block>
+      <MeltingPoint>2237</MeltingPoint>
+      <BoilingPoint>3968</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="103" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>46</AtomicNumber>
+      <Name>Palladium</Name>
+      <Symbol>Pd</Symbol>
+      <Group>10</Group>
+      <Period>5</Period>
+      <Block>d</Block>
+      <MeltingPoint>1828.05</MeltingPoint>
+      <BoilingPoint>3236</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="102" NaturalAbundance="1.02"/>
+        <Isotope Mass="104" NaturalAbundance="11.14"/>
+        <Isotope Mass="105" NaturalAbundance="22.33"/>
+        <Isotope Mass="106" NaturalAbundance="27.33"/>
+        <Isotope Mass="108" NaturalAbundance="26.46"/>
+        <Isotope Mass="110" NaturalAbundance="11.72"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>47</AtomicNumber>
+      <Name>Silver</Name>
+      <Symbol>Ag</Symbol>
+      <Group>11</Group>
+      <Period>5</Period>
+      <Block>d</Block>
+      <MeltingPoint>1234.93</MeltingPoint>
+      <BoilingPoint>2435</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="107" NaturalAbundance="51.839"/>
+        <Isotope Mass="109" NaturalAbundance="48.161"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>48</AtomicNumber>
+      <Name>Cadmium</Name>
+      <Symbol>Cd</Symbol>
+      <Group>12</Group>
+      <Period>5</Period>
+      <Block>d</Block>
+      <MeltingPoint>594.22</MeltingPoint>
+      <BoilingPoint>1040</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="106" NaturalAbundance="1.25"/>
+        <Isotope Mass="108" NaturalAbundance="0.89"/>
+        <Isotope Mass="110" NaturalAbundance="12.49"/>
+        <Isotope Mass="111" NaturalAbundance="12.8"/>
+        <Isotope Mass="112" NaturalAbundance="24.13"/>
+        <Isotope Mass="113" NaturalAbundance="12.22"/>
+        <Isotope Mass="114" NaturalAbundance="28.73"/>
+        <Isotope Mass="116" NaturalAbundance="7.49"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>49</AtomicNumber>
+      <Name>Indium</Name>
+      <Symbol>In</Symbol>
+      <Group>13</Group>
+      <Period>5</Period>
+      <Block>p</Block>
+      <MeltingPoint>429.7485</MeltingPoint>
+      <BoilingPoint>2345</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="113" NaturalAbundance="4.29"/>
+        <Isotope Mass="115" NaturalAbundance="95.71"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>50</AtomicNumber>
+      <Name>Tin</Name>
+      <Symbol>Sn</Symbol>
+      <Group>14</Group>
+      <Period>5</Period>
+      <Block>p</Block>
+      <MeltingPoint>505.08</MeltingPoint>
+      <BoilingPoint>2875</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="112" NaturalAbundance="0.97"/>
+        <Isotope Mass="114" NaturalAbundance="0.66"/>
+        <Isotope Mass="115" NaturalAbundance="0.34"/>
+        <Isotope Mass="116" NaturalAbundance="14.54"/>
+        <Isotope Mass="117" NaturalAbundance="7.68"/>
+        <Isotope Mass="118" NaturalAbundance="24.22"/>
+        <Isotope Mass="119" NaturalAbundance="8.59"/>
+        <Isotope Mass="120" NaturalAbundance="32.58"/>
+        <Isotope Mass="122" NaturalAbundance="4.63"/>
+        <Isotope Mass="124" NaturalAbundance="5.79"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>51</AtomicNumber>
+      <Name>Antimony</Name>
+      <Symbol>Sb</Symbol>
+      <Group>15</Group>
+      <Period>5</Period>
+      <Block>p</Block>
+      <MeltingPoint>903.78</MeltingPoint>
+      <BoilingPoint>1908</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="121" NaturalAbundance="57.36"/>
+        <Isotope Mass="123" NaturalAbundance="42.64"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>52</AtomicNumber>
+      <Name>Tellurium</Name>
+      <Symbol>Te</Symbol>
+      <Group>16</Group>
+      <Period>5</Period>
+      <Block>p</Block>
+      <MeltingPoint>722.66</MeltingPoint>
+      <BoilingPoint>1261</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="120" NaturalAbundance="0.09"/>
+        <Isotope Mass="122" NaturalAbundance="2.55"/>
+        <Isotope Mass="123" NaturalAbundance="0.89"/>
+        <Isotope Mass="124" NaturalAbundance="4.74"/>
+        <Isotope Mass="125" NaturalAbundance="7.07"/>
+        <Isotope Mass="126" NaturalAbundance="18.84"/>
+        <Isotope Mass="128" NaturalAbundance="31.74"/>
+        <Isotope Mass="130" NaturalAbundance="34.08"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>53</AtomicNumber>
+      <Name>Iodine</Name>
+      <Symbol>I</Symbol>
+      <Group>17</Group>
+      <Period>5</Period>
+      <Block>p</Block>
+      <MeltingPoint>386.85</MeltingPoint>
+      <BoilingPoint>457.4</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="127" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>54</AtomicNumber>
+      <Name>Xenon</Name>
+      <Symbol>Xe</Symbol>
+      <Group>18</Group>
+      <Period>5</Period>
+      <Block>p</Block>
+      <MeltingPoint>161.40</MeltingPoint>
+      <BoilingPoint>165.051</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="124" NaturalAbundance="0.095"/>
+        <Isotope Mass="126" NaturalAbundance="0.089"/>
+        <Isotope Mass="128" NaturalAbundance="1.91"/>
+        <Isotope Mass="129" NaturalAbundance="26.4"/>
+        <Isotope Mass="130" NaturalAbundance="4.07"/>
+        <Isotope Mass="131" NaturalAbundance="21.2"/>
+        <Isotope Mass="132" NaturalAbundance="26.9"/>
+        <Isotope Mass="134" NaturalAbundance="10.4"/>
+        <Isotope Mass="136" NaturalAbundance="8.86"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>55</AtomicNumber>
+      <Name>Caesium</Name>
+      <Symbol>Ce</Symbol>
+      <Group>1</Group>
+      <Period>6</Period>
+      <Block>s</Block>
+      <MeltingPoint>301.7</MeltingPoint>
+      <BoilingPoint>944</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="133" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>56</AtomicNumber>
+      <Name>Barium</Name>
+      <Symbol>Ba</Symbol>
+      <Group>2</Group>
+      <Period>6</Period>
+      <Block>s</Block>
+      <MeltingPoint>1000</MeltingPoint>
+      <BoilingPoint>2118</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="130" NaturalAbundance="0.106"/>
+        <Isotope Mass="132" NaturalAbundance="0.101"/>
+        <Isotope Mass="134" NaturalAbundance="2.417"/>
+        <Isotope Mass="135" NaturalAbundance="6.592"/>
+        <Isotope Mass="136" NaturalAbundance="7.854"/>
+        <Isotope Mass="137" NaturalAbundance="11.23"/>
+        <Isotope Mass="138" NaturalAbundance="71.7"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>57</AtomicNumber>
+      <Name>Lanthanum</Name>
+      <Symbol>La</Symbol>
+      <Group>3</Group>
+      <Period>6</Period>
+      <Block>f</Block>
+      <MeltingPoint>1193</MeltingPoint>
+      <BoilingPoint>3737</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="138" NaturalAbundance="0.090"/>
+        <Isotope Mass="139" NaturalAbundance="99.910"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>58</AtomicNumber>
+      <Name>Cerium</Name>
+      <Symbol>Ce</Symbol>
+      <Group>3</Group>
+      <Period>6</Period>
+      <Block>f</Block>
+      <MeltingPoint>1068</MeltingPoint>
+      <Boilingpoint>3716</Boilingpoint>
+      <Isotopes>
+        <Isotope Mass="136" NaturalAbundance="0.185"/>
+        <Isotope Mass="138" NaturalAbundance="0.251"/>
+        <Isotope Mass="140" NaturalAbundance="88.450"/>
+        <Isotope Mass="142" NaturalAbundance="11.114"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>59</AtomicNumber>
+      <Name>Praseodymium</Name>
+      <Symbol>Pr</Symbol>
+      <Group>3</Group>
+      <Period>6</Period>
+      <Block>f</Block>
+      <MeltingPoint>1208</MeltingPoint>
+      <BoilingPoint>3403</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="141" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>60</AtomicNumber>
+      <Name>Neodymium</Name>
+      <Symbol>Nd</Symbol>
+      <Group>3</Group>
+      <Period>6</Period>
+      <Block>f</Block>
+      <MeltingPoint>1297</MeltingPoint>
+      <BoilingPoint>3347</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="142" NaturalAbundance="27.2"/>
+        <Isotope Mass="143" NaturalAbundance="12.2"/>
+        <Isotope Mass="144" NaturalAbundance="23.8"/>
+        <Isotope Mass="145" NaturalAbundance="8.3"/>
+        <Isotope Mass="146" NaturalAbundance="17.2"/>
+        <Isotope Mass="148" NaturalAbundance="5.7"/>
+        <Isotope Mass="150" NaturalAbundance="5.6"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>61</AtomicNumber>
+      <Name>Promethium</Name>
+      <Symbol>Pm</Symbol>
+      <Group>3</Group>
+      <Period>6</Period>
+      <Block>f</Block>
+      <MeltingPoint>1315</MeltingPoint>
+      <BoilingPoint>3273</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="147" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>62</AtomicNumber>
+      <Name>Samarium</Name>
+      <Symbol>Sm</Symbol>
+      <Group>3</Group>
+      <Period>6</Period>
+      <Block>f</Block>
+      <MeltingPoint>1345</MeltingPoint>
+      <BoilingPoint>2173</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="144" NaturalAbundance="3.07"/>
+        <Isotope Mass="147" NaturalAbundance="14.99"/>
+        <Isotope Mass="148" NaturalAbundance="11.24"/>
+        <Isotope Mass="149" NaturalAbundance="13.82"/>
+        <Isotope Mass="150" NaturalAbundance="7.38"/>
+        <Isotope Mass="152" NaturalAbundance="26.75"/>
+        <Isotope Mass="154" NaturalAbundance="22.75"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>63</AtomicNumber>
+      <Name>Europium</Name>
+      <Symbol>Eu</Symbol>
+      <Group>3</Group>
+      <Period>6</Period>
+      <Block>f</Block>
+      <MeltingPoint>1099</MeltingPoint>
+      <BoilingPoint>1802</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="151" NaturalAbundance="47.8"/>
+        <Isotope Mass="153" NaturalAbundance="52.2"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>64</AtomicNumber>
+      <Name>Gadolinium</Name>
+      <Symbol>Gd</Symbol>
+      <Group>3</Group>
+      <Period>6</Period>
+      <Block>f</Block>
+      <MeltingPoint>1585</MeltingPoint>
+      <BoilingPoint>3273</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="152" NaturalAbundance="0.20"/>
+        <Isotope Mass="154" NaturalAbundance="2.18"/>
+        <Isotope Mass="155" NaturalAbundance="14.80"/>
+        <Isotope Mass="156" NaturalAbundance="20.47"/>
+        <Isotope Mass="157" NaturalAbundance="15.65"/>
+        <Isotope Mass="158" NaturalAbundance="24.84"/>
+        <Isotope Mass="160" NaturalAbundance="21.86"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>65</AtomicNumber>
+      <Name>Terbium</Name>
+      <Symbol>Tb</Symbol>
+      <Group>3</Group>
+      <Period>6</Period>
+      <Block>f</Block>
+      <MeltingPoint>1629</MeltingPoint>
+      <BoilingPoint>3396</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="159" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>66</AtomicNumber>
+      <Name>Dysprosium</Name>
+      <Symbol>Dy</Symbol>
+      <Group>3</Group>
+      <Period>6</Period>
+      <Block>f</Block>
+      <MeltingPoint>1680</MeltingPoint>
+      <BoilingPoint>2840</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="156" NaturalAbundance="0.06"/>
+        <Isotope Mass="158" NaturalAbundance="0.10"/>
+        <Isotope Mass="160" NaturalAbundance="2.34"/>
+        <Isotope Mass="161" NaturalAbundance="18.91"/>
+        <Isotope Mass="162" NaturalAbundance="25.51"/>
+        <Isotope Mass="163" NaturalAbundance="24.90"/>
+        <Isotope Mass="164" NaturalAbundance="28.18"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>67</AtomicNumber>
+      <Name>Holmium</Name>
+      <Symbol>Ho</Symbol>
+      <Group>3</Group>
+      <Period>6</Period>
+      <Block>f</Block>
+      <MeltingPoint>1734</MeltingPoint>
+      <BoilingPoint>2873</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="165" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>68</AtomicNumber>
+      <Name>Erbium</Name>
+      <Symbol>Er</Symbol>
+      <Group>3</Group>
+      <Period>6</Period>
+      <Block>f</Block>
+      <MeltingPoint>1802</MeltingPoint>
+      <BoilingPoint>3141</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="162" NaturalAbundance="0.139"/>
+        <Isotope Mass="164" NaturalAbundance="1.601"/>
+        <Isotope Mass="166" NaturalAbundance="33.503"/>
+        <Isotope Mass="167" NaturalAbundance="22.869"/>
+        <Isotope Mass="168" NaturalAbundance="26.978"/>
+        <Isotope Mass="170" NaturalAbundance="14.910"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>69</AtomicNumber>
+      <Name>Thulium</Name>
+      <Symbol>Tm</Symbol>
+      <Group>3</Group>
+      <Period>6</Period>
+      <Block>f</Block>
+      <MeltingPoint>1818</MeltingPoint>
+      <BoilingPoint>2003</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="169" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>70</AtomicNumber>
+      <Name>Ytterbium</Name>
+      <Symbol>Yb</Symbol>
+      <Group>3</Group>
+      <Period>6</Period>
+      <Block>f</Block>
+      <MeltingPoint>1097</MeltingPoint>
+      <BoilingPoint>1469</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="168" NaturalAbundance="0.13"/>
+        <Isotope Mass="170" NaturalAbundance="3.04"/>
+        <Isotope Mass="171" NaturalAbundance="14.28"/>
+        <Isotope Mass="172" NaturalAbundance="21.83"/>
+        <Isotope Mass="173" NaturalAbundance="16.13"/>
+        <Isotope Mass="174" NaturalAbundance="31.83"/>
+        <Isotope Mass="176" NaturalAbundance="12.76"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>71</AtomicNumber>
+      <Name>Lutetium</Name>
+      <Symbol>Lu</Symbol>
+      <Group>3</Group>
+      <Period>6</Period>
+      <Block>d</Block>
+      <MeltingPoint>1925</MeltingPoint>
+      <BoilingPoint>3675</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="175" NaturalAbundance="97.41"/>
+        <Isotope Mass="176" NaturalAbundance="2.59"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>72</AtomicNumber>
+      <Name>Hafnium</Name>
+      <Symbol>Hf</Symbol>
+      <Group>4</Group>
+      <Period>6</Period>
+      <Block>d</Block>
+      <MeltingPoint>2506</MeltingPoint>
+      <BoilingPoint>4876</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="174" NaturalAbundance="0.162"/>
+        <Isotope Mass="176" NaturalAbundance="5.206"/>
+        <Isotope Mass="177" NaturalAbundance="18.606"/>
+        <Isotope Mass="178" NaturalAbundance="27.297"/>
+        <Isotope Mass="179" NaturalAbundance="13.629"/>
+        <Isotope Mass="180" NaturalAbundance="35.1"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>73</AtomicNumber>
+      <Name>Tantalum</Name>
+      <Symbol>Ta</Symbol>
+      <Group>5</Group>
+      <Period>6</Period>
+      <Block>d</Block>
+      <MeltingPoint>3290</MeltingPoint>
+      <BoilingPoint>5731</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="180" NaturalAbundance="0.012"/>
+        <Isotope Mass="181" NaturalAbundance="99.988"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>74</AtomicNumber>
+      <Name>Tungsten</Name>
+      <Symbol>W</Symbol>
+      <Group>6</Group>
+      <Period>6</Period>
+      <Block>d</Block>
+      <MeltingPoint>3695</MeltingPoint>
+      <BoilingPoint>6203</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="180" NaturalAbundance="0.12"/>
+        <Isotope Mass="182" NatuarlAbundance="26.50"/>
+        <Isotope Mass="183" NaturalAbundance="14.31"/>
+        <Isotope Mass="184" NaturalAbundance="30.64"/>
+        <Isotope Mass="186" NaturalAbundance="28.43"/>
+      </Isotopes>
+    </Element>
   </Elements>
 </Definitions>
