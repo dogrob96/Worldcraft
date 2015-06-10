@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Definitions>
   <Elements>
     <Element>
       <AtomicNumber>1</AtomicNumber>
@@ -1140,6 +1140,369 @@
         <Isotope Mass="183" NaturalAbundance="14.31"/>
         <Isotope Mass="184" NaturalAbundance="30.64"/>
         <Isotope Mass="186" NaturalAbundance="28.43"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>75</AtomicNumber>
+      <Name>Rhenium</Name>
+      <Symbol>Re</Symbol>
+      <Group>7</Group>
+      <Period>6</Period>
+      <Block>d</Block>
+      <MeltingPoint>3459</MeltingPoint>
+      <BoilingPoint>5869</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="186" NaturalAbundance="37.4"/>
+        <Isotope Mass="187" NaturalAbundance="62.6"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>76</AtomicNumber>
+      <Name>Osmium</Name>
+      <Symbol>Os</Symbol>
+      <Group>8</Group>
+      <Period>6</Period>
+      <Block>d</Block>
+      <MeltingPoint>3306</MeltingPoint>
+      <BoilingPoint>5285</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="184" NaturalAbundance="0.02"/>
+        <Isotope Mass="186" NaturalAbundance="1.59"/>
+        <Isotope Mass="187" NaturalAbundance="1.96"/>
+        <Isotope Mass="188" NaturalAbundance="13.24"/>
+        <Isotope Mass="189" NaturalAbundance="16.15"/>
+        <Isotope Mass="190" NaturalAbundance="26.26"/>
+        <Isotope Mass="192" NaturalAbundance="40.78"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>77</AtomicNumber>
+      <Name>Iridium</Name>
+      <Symbol>Ir</Symbol>
+      <Group>9</Group>
+      <Period>6</Period>
+      <Block>d</Block>
+      <MeltingPoint>2719</MeltingPoint>
+      <BoilingPoint>4403</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="191" NaturalAbundance="37.3"/>
+        <Isotope Mass="193" NaturalAbundance="62.7"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>78</AtomicNumber>
+      <Name>Platinum</Name>
+      <Symbol>Pt</Symbol>
+      <Group>10</Group>
+      <Period>6</Period>
+      <Block>d</Block>
+      <MeltingPoint>2041.4</MeltingPoint>
+      <BoilingPoint>4098</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="190" NaturalAbundance="0.014"/>
+        <Isotope Mass="192" NaturalAbundance="0.782"/>
+        <Isotope Mass="194" NaturalAbundance="32.967"/>
+        <Isotpee Mass="195" NaturalAbundance="33.832"/>
+        <Isotope Mass="196" NaturalAbundance="25.242"/>
+        <Isotope Mass="198" NaturalAbundance="7.163"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>79</AtomicNumber>
+      <Name>Gold</Name>
+      <Symbol>Au</Symbol>
+      <Group>11</Group>
+      <Period>6</Period>
+      <Block>d</Block>
+      <MeltingPoint>1337.33</MeltingPoint>
+      <BoilingPoint>3243</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="197" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>80</AtomicNumber>
+      <Name>Mercury</Name>
+      <Symbol>Hg</Symbol>
+      <Group>12</Group>
+      <Period>6</Period>
+      <Block>d</Block>
+      <MeltingPoint>234.3210</MeltingPoint>
+      <BoilingPoint>629.88</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="196" NaturalAbundance="0.15"/>
+        <Isotope Mass="198" NaturalAbundance="9.97"/>
+        <Isotope Mass="199" NaturalAbundance="16.87"/>
+        <Isotope Mass="200" NaturalAbundance="23.10"/>
+        <Isotope Mass="201" NaturalAbundance="13.18"/>
+        <Isotope Mass="202" NaturalAbundance="29.86"/>
+        <Isotope Mass="204" NaturalAbundance="6.87"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>81</AtomicNumber>
+      <Name>Thallium</Name>
+      <Symbol>Tl</Symbol>
+      <Group>13</Group>
+      <Period>6</Period>
+      <Block>p</Block>
+      <MeltingPoint>577</MeltingPoint>
+      <BoilingPoint>1746</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="203" NaturalAbundance="29.524"/>
+        <Isotope Mass="205" NaturalAbundance="70.476"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>82</AtomicNumber>
+      <Name>Lead</Name>
+      <Symbol>Pb</Symbol>
+      <Group>14</Group>
+      <Period>6</Period>
+      <Block>p</Block>
+      <MeltingPoint>600.61</MeltingPoint>
+      <BoilingPoint>2022</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="204" NaturalAbundance="1.4"/>
+        <Isotope Mass="206" NaturalAbundance="24.1"/>
+        <Isotope Mass="207" NaturalAbundance="22.1"/>
+        <Isotope Mass="208" NaturalAbundance="52.4"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>83</AtomicNumber>
+      <Name>Bismuth</Name>
+      <Symbol>Bi</Symbol>
+      <Group>15</Group>
+      <Period>6</Period>
+      <Block>p</Block>
+      <MeltingPoint>544.7</MeltingPoint>
+      <BoilingPoint>1837</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="209" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>84</AtomicNumber>
+      <Name>Polonium</Name>
+      <Symbol>Po</Symbol>
+      <Group>16</Group>
+      <Period>6</Period>
+      <Block>p</Block>
+      <MeltingPoint>527</MeltingPoint>
+      <BoilingPoint>1235</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="210" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>85</AtomicNumber>
+      <Name>Astatine</Name>
+      <Symbol>At</Symbol>
+      <Group>17</Group>
+      <Period>6</Period>
+      <Block>p</Block>
+      <MeltingPoint>575</MeltingPoint>
+      <BoilingPoint>610</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="210" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>86</AtomicNumber>
+      <Name>Radon</Name>
+      <Symbol>Rn</Symbol>
+      <Group>18</Group>
+      <Period>6</Period>
+      <Block>p</Block>
+      <MeltingPoint>202</MeltingPoint>
+      <BoilingPoint>211.5</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="222" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>87</AtomicNumber>
+      <Name>Francium</Name>
+      <Symbol>Fr</Symbol>
+      <Group>1</Group>
+      <Period>7</Period>
+      <Block>s</Block>
+      <MeltingPoint>300</MeltingPoint>
+      <BoilingPoint>950</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="223" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>88</AtomicNumber>
+      <Name>Radium</Name>
+      <Symbol>Ra</Symbol>
+      <Group>2</Group>
+      <Period>7</Period>
+      <Block>s</Block>
+      <MeltingPoint>1233</MeltingPoint>
+      <BoilingPoint>2010</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="226" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>89</AtomicNumber>
+      <Name>Actinium</Name>
+      <Symbol>Ac</Symbol>
+      <Group>3</Group>
+      <Period>7</Period>
+      <Block>f</Block>
+      <MeltingPoint>1500</MeltingPoint>
+      <BoilingPoint>3500</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="227" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>90</AtomicNumber>
+      <Name>Thorium</Name>
+      <Symbol>Th</Symbol>
+      <Group>3</Group>
+      <Period>7</Period>
+      <Block>f</Block>
+      <MeltingPoint>2023</MeltingPoint>
+      <BoilingPoint>5061</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="232" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>91</AtomicNumber>
+      <Name>Protactinium</Name>
+      <Symbol>Pa</Symbol>
+      <Group>3</Group>
+      <Period>7</Period>
+      <Block>f</Block>
+      <MeltingPoint>1841</MeltingPoint>
+      <BoilingPoint>4300</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="231" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>92</AtomicNumber>
+      <Name>Uranium</Name>
+      <Symbol>U</Symbol>
+      <Group>3</Group>
+      <Period>7</Period>
+      <Block>f</Block>
+      <MeltingPoint>1405.3</MeltingPoint>
+      <BoilingPoint>4404</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="234" NaturalAbundance="0.005"/>
+        <Isotope Mass="235" NaturalAbundance="0.720"/>
+        <Isotope Mass="238" NaturalAbundance="99.275"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>93</AtomicNumber>
+      <Name>Neptunium</Name>
+      <Symbol>Np</Symbol>
+      <Group>3</Group>
+      <Period>7</Period>
+      <Block>f</Block>
+      <MeltingPoint>912</MeltingPoint>
+      <BoilingPoint>4447</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="237" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>94</AtomicNumber>
+      <Name>Plutonium</Name>
+      <Symbol>Pu</Symbol>
+      <Group>3</Group>
+      <Period>7</Period>
+      <Block>f</Block>
+      <MeltingPoint>912.5</MeltingPoint>
+      <BoilingPoint>3505</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="244" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>95</AtomicNumber>
+      <Name>Americium</Name>
+      <Symbol>Am</Symbol>
+      <Group>3</Group>
+      <Period>7</Period>
+      <Block>f</Block>
+      <MeltingPoint>1449</MeltingPoint>
+      <BoilingPoint>2880</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="243" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>96</AtomicNumber>
+      <Name>Curium</Name>
+      <Symbol>Cm</Symbol>
+      <Group>3</Group>
+      <Period>7</Period>
+      <Block>f</Block>
+      <MeltingPoint>1613</MeltingPoint>
+      <BoilingPoint>3383</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="247" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>97</AtomicNumber>
+      <Name>Berkelium</Name>
+      <Symbol>Bk</Symbol>
+      <Group>3</Group>
+      <Period>7</Period>
+      <Block>f</Block>
+      <MeltingPoint>1259</MeltingPoint>
+      <BoilingPoint>2900</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="249" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>98</AtomicNumber>
+      <Name>Californium</Name>
+      <Symbol>Cf</Symbol>
+      <Group>3</Group>
+      <Period>7</Period>
+      <Block>f</Block>
+      <MeltingPoint>1173</MeltingPoint>
+      <BoilingPoint>1743</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="249" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>99</AtomicNumber>
+      <Name>Einsteinium</Name>
+      <Symbol>Es</Symbol>
+      <Group>3</Group>
+      <Period>7</Period>
+      <Block>f</Block>
+      <MeltingPoint>1133</MeltingPoint>
+      <BoilingPoint>1269</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="252" NaturalAbundance="100"/>
+      </Isotopes>
+    </Element>
+    <Element>
+      <AtomicNumber>100</AtomicNumber>
+      <Name>Fermium</Name>
+      <Symbol>Fm</Symbol>
+      <Group>3</Group>
+      <Period>7</Period>
+      <Block>f</Block>
+      <MeltingPoint>1800</MeltingPoint>
+      <BoilingPoint>N/A</BoilingPoint>
+      <Isotopes>
+        <Isotope Mass="257" NaturalAbundance="100"/>
       </Isotopes>
     </Element>
   </Elements>
