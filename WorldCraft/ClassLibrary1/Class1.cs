@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Utility.Objects
+namespace ClassLibrary1
 {
-    class XmlDeserialization
+    public class Class1
     {
     }
 }

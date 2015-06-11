@@ -1,0 +1,9 @@
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\Utility\bin\Debug\Utility.dll
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\Utility\bin\Debug\Utility.pdb
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\Utility\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\Utility\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\Utility\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\Utility\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\Utility\obj\Debug\Utility.dll
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\Utility\obj\Debug\Utility.pdb

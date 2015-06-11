@@ -8,7 +8,7 @@ namespace Utility.Objects
 {
     class Ores
     {
-        public List<Ore> Ores = new List<Ore>();
+        public List<Ore> OreList = new List<Ore>();
     }
     class Ore
     {

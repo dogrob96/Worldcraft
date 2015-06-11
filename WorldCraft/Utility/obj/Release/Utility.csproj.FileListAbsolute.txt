@@ -1,0 +1,8 @@
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\Utility\bin\Release\Utility.dll
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\Utility\bin\Release\Utility.pdb
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\Utility\bin\Release\Microsoft.Xna.Framework.dll
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\Utility\bin\Release\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\Utility\bin\Release\Microsoft.Xna.Framework.xml
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\Utility\bin\Release\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\Utility\obj\Release\Utility.dll
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\Utility\obj\Release\Utility.pdb

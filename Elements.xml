@@ -24,10 +24,10 @@
       <Block>s</Block>
       <MeltingPoint>0.95</MeltingPoint>
       <BoilingPoint>4.222</BoilingPoint>
-      <Isotope>
+      <Isotopes>
         <Isotope Mass="3" NaturalAbundance="0.000137"/>
         <Isotope Mass="4" NaturalAbundance="99.999863"/>
-      </Isotope>
+      </Isotopes>
     </Element>
     <Element>
       <AtomicNumber>3</AtomicNumber>
@@ -77,8 +77,8 @@
       <Group>14</Group>
       <Period>2</Period>
       <Block>p</Block>
-      <MeltingPoint>N/A</MeltingPoint>
-      <BoilingPoint>N/A</BoilingPoint>
+      <MeltingPoint>0</MeltingPoint>
+      <BoilingPoint>0</BoilingPoint>
       <Isotopes>
         <Isotope Mass="12" NaturalAbundance="98.9"/>
         <Isotope Mass="13" NaturalAbundance="1.1"/>
@@ -204,8 +204,8 @@
       <Group>15</Group>
       <Period>3</Period>
       <Block>p</Block>
-      <MeltingPoint>N/A</MeltingPoint>
-      <BoilingPoint>N/A</BoilingPoint>
+      <MeltingPoint>0</MeltingPoint>
+      <BoilingPoint>0</BoilingPoint>
       <Isotopes>
         <Isotope Mass="31" NaturalAbundance="100"/>
       </Isotopes>
@@ -476,8 +476,8 @@
       <Group>15</Group>
       <Period>4</Period>
       <Block>p</Block>
-      <MeltingPoint>N/A</MeltingPoint>
-      <BoilingPoint>N/A</BoilingPoint>
+      <MeltingPoint>0</MeltingPoint>
+      <BoilingPoint>0</BoilingPoint>
       <Isotopes>
         <Isotope Mass="75" NaturalAbundance="100"/>
       </Isotopes>
@@ -1500,7 +1500,7 @@
       <Period>7</Period>
       <Block>f</Block>
       <MeltingPoint>1800</MeltingPoint>
-      <BoilingPoint>N/A</BoilingPoint>
+      <BoilingPoint>0</BoilingPoint>
       <Isotopes>
         <Isotope Mass="257" NaturalAbundance="100"/>
       </Isotopes>

@@ -1,0 +1,6 @@
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\WorldCraft\WorldCraft\bin\x86\Release\WorldCraft.exe
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\WorldCraft\WorldCraft\bin\x86\Release\WorldCraft.pdb
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\WorldCraft\WorldCraft\obj\x86\Release\WorldCraft.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\WorldCraft\WorldCraft\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\WorldCraft\WorldCraft\obj\x86\Release\WorldCraft.exe
+C:\Users\Robert\Documents\GitHub\Worldcraft\WorldCraft\WorldCraft\WorldCraft\obj\x86\Release\WorldCraft.pdb

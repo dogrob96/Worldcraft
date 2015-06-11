@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldCraft", "WorldCraft\WorldCraft\WorldCraft.csproj", "{EFDA1C08-1BA5-4CB7-A188-21E60CD1EE61}"
 EndProject
-Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "WorldCraftContent", "WorldCraft\WorldCraftContent\WorldCraftContent.contentproj", "{B56E907D-E484-40DA-AD65-046780D558F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldCraftContent", "WorldCraft\WorldCraftContent\WorldCraftContent.contentproj", "{B56E907D-E484-40DA-AD65-046780D558F9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{18D44395-A94A-46CB-AC55-B469BBBBEBBB}"
 EndProject
