@@ -6,12 +6,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
 using System.Xml.Serialization;
-using Utility.Objects;
+using Utility.Objects.Definitions;
 namespace Utility.IO
 {
     class XmlDeserialization
     {
-        public bool deserialize(string filename)
+        public Elements DeserializeElements(string filename)
         {
             XmlSerializer deserializer = new XmlSerializer(typeof(Elements));
             try
@@ -20,12 +20,12 @@ namespace Utility.IO
                 object obj = deserializer.Deserialize(reader);
                 Elements ElementList = (Elements)obj;
                 reader.Close();
-                return true;
+                return ElementList;
             }
-            catch
+            catch (Exception ex)
             {
-                System.Console.Out.Write("deserialize Elements failed");
-                return false;
+                System.Console.Out.Write("deserialize Elements failed because of " + ex.ToString());
+                return null;
             }
         }
     }

@@ -7,6 +7,9 @@ namespace WorldCraft.Process
 {
     class Initalize
     {
-        
+        public void getElements()
+        {
+            
+        }
     }
 }

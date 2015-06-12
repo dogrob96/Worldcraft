@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
 using System.Xml.Serialization;
-namespace Utility.Objects
+namespace Utility.Objects.Definitions
 {
     class Elements
     {
@@ -27,11 +27,14 @@ namespace Utility.Objects
         [XmlElement("Block")]
         public char Block { get; set; }
         [XmlElement("MeltingPoint")]
-        public float MeltingPoint{ get; set; }
+        public float MeltingPoint { get; set; }
         [XmlElement("BoilingPoint")]
         public float BoilingPoint { get; set; }
         [XmlElement("Isotopes")]
         public List<Isotope> Isotopes = new List<Isotope>();
+        public int NumberOfElectrons { get; set; }
+        public int CoreCharge { get; set; }
+
     }
     class Isotope
     {
