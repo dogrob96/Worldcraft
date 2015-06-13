@@ -1,0 +1,10 @@
+ToDo
+	Xml file read
+	generate models
+	build player/camera
+	generate terrain
+	add physics
+	add rules
+	networking
+	server work
+	optimization 

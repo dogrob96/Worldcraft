@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
 using System.Xml.Serialization;
-namespace Utility.Objects.Definitions;
+namespace Utility.Objects.Definitions
 {
     class Ores
     {

@@ -1,5 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Definitions>
   <Elements>
     <Element>
       <AtomicNumber>1</AtomicNumber>
@@ -1506,4 +1505,3 @@
       </Isotopes>
     </Element>
   </Elements>
-</Definitions>

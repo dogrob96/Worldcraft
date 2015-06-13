@@ -34,6 +34,7 @@ namespace Utility.Objects.Definitions
         public List<Isotope> Isotopes = new List<Isotope>();
         public int NumberOfElectrons { get; set; }
         public int CoreCharge { get; set; }
+        public int ElectorNegativity { get; set; }
 
     }
     class Isotope

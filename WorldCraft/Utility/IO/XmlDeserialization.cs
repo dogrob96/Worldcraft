@@ -11,7 +11,7 @@ namespace Utility.IO
 {
     class XmlDeserialization
     {
-        public Elements DeserializeElements(string filename)
+        public static Elements DeserializeElements(string filename)
         {
             XmlSerializer deserializer = new XmlSerializer(typeof(Elements));
             try

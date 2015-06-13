@@ -70,7 +70,8 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Net" />
-    <Reference Include="Utility">
+    <Reference Include="Utility, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\Utility\bin\x86\Release\Utility.dll</HintPath>
     </Reference>
   </ItemGroup>

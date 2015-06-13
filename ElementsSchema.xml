@@ -1,0 +1,38 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Elements">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Element" maxOccurs="unbounded" minOccurs="1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:byte" name="AtomicNumber"/>
+              <xs:element type="xs:string" name="Name"/>
+              <xs:element type="xs:string" name="Symbol"/>
+              <xs:element type="xs:byte" name="Group"/>
+              <xs:element type="xs:byte" name="Period"/>
+              <xs:element type="xs:string" name="Block"/>
+              <xs:element type="xs:float" name="MeltingPoint"/>
+              <xs:element type="xs:float" name="BoilingPoint"/>
+              <xs:element name="Isotopes">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Isotope">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute type="xs:byte" name="Mass" use="optional"/>
+                            <xs:attribute type="xs:float" name="NaturalAbundance" use="optional"/>
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

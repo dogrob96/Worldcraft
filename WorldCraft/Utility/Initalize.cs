@@ -8,6 +8,19 @@ namespace Utility
 {
     class Initalize
     {
-        
+        public Elements ElementList;
+        public void Initalizefunction()
+        {
+           ElementList = XmlDeserialization.DeserializeElements("");
+            foreach(Element CurrentElement in ElementList.ElementsList)
+            {
+                CurrentElement.NumberOfElectrons = CurrentElement.AtomicNumber;
+                CurrentElement.CoreCharge = CalculateCoreChare();
+            }
+        }
+        public int CalculateCoreChare()
+        {
+            return 0;
+        }
     }
 }
